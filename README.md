@@ -1,2 +1,3 @@
 # competition
-大二暑假参加的全国大学生博弈棋比赛，两个比赛虽然都是作为队员的身份，也算尽了微薄之力。以后还得常来复习代码。
+
+In the second year of summer vacation, I took part in the national college student chess game. I have to review the code often in the future.
